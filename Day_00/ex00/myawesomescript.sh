@@ -1,3 +1,3 @@
 #!/bin/sh
 
-curl -s $1 | grep "href=" | cut -f2 -d '"'
+curl -sI $1 | grep -i "Location:" | cut -f2 -d ' '
