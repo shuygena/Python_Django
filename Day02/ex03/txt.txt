@@ -1,0 +1,70 @@
+name : cappuccino
+price : 0.45
+description : Un po’ di Italia nella sua tazza!
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : tea
+price : 0.3
+description : Just some hot water in a cup.
+name : coffee
+price : 0.4
+description : A coffee, to stay awake.
+name : tea
+price : 0.3
+description : Just some hot water in a cup.
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+This coffee machine has to be repaired.
+This coffee machine has to be repaired.
+This coffee machine has to be repaired.
+This coffee machine has to be repaired.
+This coffee machine has to be repaired.
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : chocolate
+price : 0.5
+description : Chocolate, sweet chocolate...
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : chocolate
+price : 0.5
+description : Chocolate, sweet chocolate...
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+name : coffee
+price : 0.4
+description : A coffee, to stay awake.
+name : empty cup
+price : 0.9
+description : An empty cup?! Gimme my money back!
+This coffee machine has to be repaired.
+This coffee machine has to be repaired.
+This coffee machine has to be repaired.
+This coffee machine has to be repaired.
+This coffee machine has to be repaired.

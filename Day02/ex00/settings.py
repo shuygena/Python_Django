@@ -1,0 +1,5 @@
+title = "CV Malia Skeleton"
+name = "Malia"
+surname = "Skeleton"
+internship = "Python Backend Developer"
+location = "Kazan, Russia"
